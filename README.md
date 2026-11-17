@@ -23,12 +23,12 @@
 ## 🚀 Featured Projects
 | # | Project | What it does | Stack |
 |---|---|---|---|
-| 🥇 | [Self-Healing Infrastructure](LINK) | Detects failures and recovers automatically at pod, config, node and alert level | Kubernetes, Argo CD, Prometheus, Terraform, Ansible, AWS |
-| 🥈 | [Jenkins DevSecOps Pipeline](LINK) | Build → scan → push → deploy with security gates | Jenkins, SonarQube, Snyk, Trivy, Nexus, Docker |
-| 🥉 | [Terraform AWS Infrastructure](LINK) | Modular AWS infra with remote state and CI | Terraform, AWS, GitHub Actions |
-| 4 | [GitOps with Argo CD](LINK) | Git-driven Kubernetes deployments | Argo CD, Kubernetes, Helm |
-| 5 | [Observability Stack](LINK) | Metrics, dashboards and alerting | Prometheus, Grafana, Alertmanager |
-| 6 | [Ansible & Linux Automation](LINK) | Server hardening and routine automation | Ansible, Linux, Bash |
+| 🥇 | [self-healing-app](https://github.com/Anand9555/self-healing-app) | Detects failures and recovers automatically at pod, config, node and alert level | Kubernetes, Argo CD, Prometheus, Terraform, Ansible, AWS |
+| 🥈 | [DevSecOps-Project](https://github.com/Anand9555/DevSecOps-Project) | Build → scan → push → deploy with security gates | Jenkins, SonarQube, Snyk, Trivy, Nexus, Docker |
+| 🥉 | [terraform-repo](https://github.com/Anand9555/terraform-repo) | Modular AWS infra with remote state and CI | Terraform, AWS, GitHub Actions |
+| 4 | [argocd](https://github.com/Anand9555/argocd) | Git-driven Kubernetes deployments | Argo CD, Kubernetes, Helm |
+| 5 | [all-setups](https://github.com/Anand9555/all-setups) | Server hardening and routine automation | Ansible, Linux, Bash |
+| 6 | [all-setups-1](https://github.com/Anand9555/all-setups-1) | Infrastructure setup and automation scripts for DevOps tasks | Ansible, Linux, Bash, GitHub Actions |
 
 ## 🎯 Looking For
 Entry-level DevOps / Cloud Engineer role: CI/CD, IaC, Kubernetes and reliability engineering.
