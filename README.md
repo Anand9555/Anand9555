@@ -4,7 +4,7 @@
   Self-healing infrastructure • DevSecOps pipelines • GitOps • Infrastructure as Code<br>
   📍 Hyderabad, India &nbsp;|&nbsp; 🟢 Open to entry-level DevOps / Cloud Engineer roles<br><br>
   <a href="https://linkedin.com/in/anand-pathakoti">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="mailto:anandpathakoti118@gmail.com">Email</a>
 </p>
 
 ---
