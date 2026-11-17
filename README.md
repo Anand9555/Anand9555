@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anand Pathakoti 👋
 
-<!--
-**Anand9555/Anand9555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps & Cloud Engineer (Fresher)** | B.Tech CSE, Vignana Bharathi Institute of Technology (2026)
+I build automated CI/CD pipelines, cloud infrastructure and GitOps workflows.
+📍 Hyderabad, India | 🟢 Open to entry-level DevOps / Cloud Engineer roles
 
-Here are some ideas to get you started:
+## 🛠 Skills
+| Area | Tools |
+|---|---|
+| Cloud | AWS |
+| Infrastructure as Code | Terraform, Ansible |
+| CI/CD | Jenkins (Declarative Pipelines), GitHub Actions |
+| Containers & Orchestration | Docker, Kubernetes |
+| GitOps | Argo CD |
+| DevSecOps | SonarQube, Snyk, Trivy, Nexus |
+| Monitoring | Prometheus, Grafana |
+| OS / Scripting | Linux, Bash |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Jenkins CI/CD with DevSecOps](link)**: Build → SonarQube → Snyk → Trivy → Nexus → Docker push
+- **[Terraform on AWS](link)**: VPC, compute and remote state with S3 locking
+- **[GitOps with Argo CD](link)**: Kubernetes deployments synced from Git
+- **[Monitoring with Prometheus & Grafana](link)**: dashboards and alerts
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/anand-pathakoti) | anandpathakoti118@gmail.com
